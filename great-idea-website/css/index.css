@@ -50,7 +50,7 @@ table {
 /* Set every element's box-sizing to border-box */
 * {
 	box-sizing: border-box;
-	/* border: 1px solid gray; */
+	border: 1px solid gray;
 	max-width: 100%;
 	
 }
@@ -169,22 +169,25 @@ button:hover{
 	padding-bottom: 5%;
 }
 .services{
-	width:32%;
+	width:30%;
 	display:inline-block;
-	margin-right:3%;
+	
 	line-height: 1.5;
+	margin-left: 2%;
+	
 	}
 .prodcut{
-	width:32%;
+	width:30%;
 	display:inline-block;
 	line-height: 1.5;
+	margin-left: 2%;
 }
 .vision{
 	width:30%;
 	display:inline-block;
 	line-height: 1.5;
 	margin-left: 2%;
-	margin-top: 2%
+	margin-top: 5%
 }
 
 
